@@ -1,4 +1,2 @@
 # test2
-/.idea
-/*.iml
-/target
+这是test2仓库
